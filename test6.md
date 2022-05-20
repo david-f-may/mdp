@@ -1,0 +1,12 @@
+//ex ("/sbin/dmsetup");
+//exdir ("/etc/firefox");
+//exdir ("/etc/pulse");
+//exdir ("/sbin");
+//exdir ("/bin");
+//exdir ("/usr/bin");
+exdir ("/usr/share");
+exdir ("/usr/local/ISO");
+exdir ("/usr/local/share");
+hashinfo;
+mddir ("/usr", "default");
+mddir ("/sbin", "default");
